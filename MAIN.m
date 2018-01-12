@@ -7,7 +7,7 @@ clear;
 path(path,'.\tools');
 path(path,'.\schemes');
 
-%% fuild properties
+%% fluid properties
 global gamma R;
 gamma=1.4;
 R=287;
