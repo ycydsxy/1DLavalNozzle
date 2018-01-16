@@ -4,3 +4,4 @@ CFD Solver for 1D Laval Nozzle
 
 Scheme:
 - AUSM Scheme
+- Roe Scheme
